@@ -1,0 +1,2 @@
+yamjam==0.1.7
+twitter==1.18.0
