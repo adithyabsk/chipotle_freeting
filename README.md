@@ -1,6 +1,6 @@
 # Free Chipotle
 
-Blog Post: [TODO]
+[Blog Post](https://www.adithyabalaji.com/hacking/2021/08/10/Chipotle.html)
 
 ## Installation / Run
 
